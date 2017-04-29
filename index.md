@@ -12,4 +12,4 @@ Hello World
 
 ##### Here's a picture of New York City!
 
-![NYC 1950s](https://secure.static.tumblr.com/bd3a29bafcf351ad84a0487b934b013a/n6dmylb/K64oglv0m/tumblr_static_tumblr_static_21zj5n8ihllw8cgcc48so8ok0_640.jpg)
+![NYC 1950s](NYC_1950s.jpeg)
