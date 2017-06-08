@@ -14,7 +14,7 @@ Hello World
 
 ![NYC 1950s](NYC_1950s.jpeg)
 
-## Project 3 links to web apps
+## Project 3: Get Flickr & 500px web apps
 
 #### Part A: Get Flickr
 
