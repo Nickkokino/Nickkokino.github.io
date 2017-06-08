@@ -13,3 +13,13 @@ Hello World
 ##### Here's a picture of New York City!
 
 ![NYC 1950s](NYC_1950s.jpeg)
+
+## Project 3 links to web apps
+
+#### Part A: Get Flickr
+
+[Get Flickr search](http://pages.uoregon.edu/nkokino/281/p3-17s-Nickkokino/get-Flickr.html)
+
+#### Part B: Get 500px
+
+[Get 500px search](http://pages.uoregon.edu/nkokino/281/p3-17s-Nickkokino/get-500px.html)
