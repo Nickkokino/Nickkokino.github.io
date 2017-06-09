@@ -1,4 +1,4 @@
-Hello World
+Hello World - This is my CIT 281 project folder. What follows are 3 projects that I created over the course of spring term. All 3 were challenging, but ultimately rewarding. Feel free to click any links to explore my projects!
 
 # Welcome to my project page
 
