@@ -14,12 +14,16 @@ Hello World
 
 ![NYC 1950s](NYC_1950s.jpeg)
 
+
+
+## Project 2: Creating a GitHub Userpage and Projectpage
+
+[Link to Project 2](https://uo-cit.github.io/p2-17S-Nickkokino/)
+
 ## Project 3: Get Flickr & 500px web apps
 
-#### Part A: Get Flickr
+[Link to Project 3](https://uo-cit.github.io/p3-17s-Nickkokino/)
 
-[Get Flickr search](http://pages.uoregon.edu/nkokino/281/p3-17s-Nickkokino/get-Flickr.html)
+## Project 4: Unsplash and Youtube Web apps
 
-#### Part B: Get 500px
-
-[Get 500px search](http://pages.uoregon.edu/nkokino/281/p3-17s-Nickkokino/get-500px.html)
+[Link to Project 4](https://uo-cit.github.io/p4-17s-Nickkokino/)
